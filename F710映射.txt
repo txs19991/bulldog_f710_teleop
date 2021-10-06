@@ -1,0 +1,5 @@
+joy.axes:按键左右，按键上下，右摇杆左右，右摇杆上下，左摇杆左右，左摇杆上下
+joy.buttons:x,a,b,y,LB,RB,LT,RT,BACK...
+
+bulldog遥控：
+按住LS，右摇杆上下控制前后，左右控制转向
